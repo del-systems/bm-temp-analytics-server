@@ -1,0 +1,25 @@
+{
+  "name": "@del-systems/bm-temp-analytics-server",
+  "version": "1.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "run": "node index.js"
+  },
+  "author": "Shakhzod Ikromov <aabbcc.double@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "localtunnel": "^2.0.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/del-systems/bm-temp-analytics-server.git"
+  },
+  "bugs": {
+    "url": "https://github.com/del-systems/bm-temp-analytics-server/issues"
+  },
+  "homepage": "https://github.com/del-systems/bm-temp-analytics-server#readme",
+  "description": ""
+}
