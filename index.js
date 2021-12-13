@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const localtunnel = require('localtunnel')
 const express = require('express')
 const app = express()
